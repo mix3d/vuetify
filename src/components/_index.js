@@ -10,6 +10,7 @@ import DateTime from './pickers/index'
 import Dialogs from './dialogs/index'
 import Dividers from './dividers/index'
 import ExpansionPanel from './expansion-panel/index'
+import FileSelect from './file/index'
 import Footer from './footer/index'
 import Forms from './forms/index'
 import Grid from './grid/index'
@@ -44,6 +45,7 @@ export default Object.assign({},
   Dialogs,
   Dividers,
   ExpansionPanel,
+  FileSelect,
   Footer,
   Forms,
   Grid,
